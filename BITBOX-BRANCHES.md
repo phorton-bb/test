@@ -1,27 +1,34 @@
 # BitBox branches
 
-**bitbox/functional-test/prodtest-14TPT622_iMX28-prodtest_v15.1.x**
+## Functional test firmware
 
-14TPT622-issA_iMX28-prodtest_v15.1.4
+### <ins>bitbox/functional-test/prodtest-14TPT622_iMX28-prodtest_v15.1.x</ins>
 
-**bitbox/functional-test/prodtest**
+- 14TPT622-issA_iMX28-prodtest_v15.1.4
 
-14TPT622-issA_STM32-prodtest_v15.1.2
+### <ins>bitbox/functional-test/prodtest</ins>
 
-14TPT622-issH_STM32-prodtest_v15.2.2
+- 14TPT622-issA_STM32-prodtest_v15.1.2
+- 14TPT622-issH_STM32-prodtest_v15.2.2
+- 14TPT622-issH_iMX28-prodtest_v15.2.4
+- 14TPT640-issA_prodtest_v15.1.6
+- 14TPT640-issD_prodtest_v15.2.4
+- src-15TPT664-prodtest_v15.1.1
+- 17TPT727-issA_prodtest_v15.1.3
+- 17TPT727-issE_prodtest_v15.2.2
+- 19TPT810-issA_prodtest_v1.2.2
 
-14TPT622-issH_iMX28-prodtest_v15.2.4
+## Standalone test firmware
 
-14TPT640-issA_prodtest_v15.1.6
+### <ins>bitbox/standalone-test/ddr2-memory-test</ins>
 
-14TPT640-issD_prodtest_v15.2.4
+- ddr2-memory-test-v0.1.0
 
-src-15TPT664-prodtest_v15.1.1
+### <ins>bitbox/standalone-test/stm32xx-flash-test</ins>
 
-17TPT727-issA_prodtest_v15.1.3
+- 14TPT622_STM32xx-flash-test_v15.1.0
 
-17TPT727-issE_prodtest_v15.2.2
 
-19TPT810-issA_prodtest_v1.2.2
+
 
 
