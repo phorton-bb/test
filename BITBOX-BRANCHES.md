@@ -4,7 +4,7 @@
 
 ### <ins>bitbox/functional-test/prodtest-14TPT622_iMX28-prodtest_v15.1.x</ins>
 
-Functional test firmware for older iMX28s (pre- issue H).
+Functional test firmware for pre- issue H iMX28s.
 
 - 14TPT622-issA_iMX28-prodtest_v15.1.4
 
